@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: info.kgeorgiy.ja.yarunina.implementor.Implementor
+Class-Path: info.kgeorgiy.ja.yarunina.implementor.Implementor$MethodWra
+ pper ../../java-advanced-2023/artifacts/info.kgeorgiy.java.advanced.im
+ plementor.jar
