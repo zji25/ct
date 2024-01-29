@@ -1,0 +1,29 @@
+[workspace]
+members = [
+    # Tasks
+    "add",
+    "comm",
+    "perc",
+    "paperio",
+    "ini",
+    "polka",
+    "trust",
+    "flatmap",
+    "pstack",
+    "chip8",
+    "mpsc",
+    "fswalk",
+    "stdmacro",
+    "gc",
+    "orm",
+    "pargrep",
+    "tcp_proxy",
+    "rio",
+    "babencoin",
+
+    # Tools
+    "tools/submit",
+    "paperio/tools/wasm-launcher",
+    "chip8/tools/console-runner",
+]
+resolver = "2"

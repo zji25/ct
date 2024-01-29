@@ -1,0 +1,17 @@
+T__0=1
+T__1=2
+NT_NAME=3
+T_NAME=4
+ATTR=5
+CODE=6
+REGEX=7
+ARR=8
+COL=9
+OR=10
+EXTRA_CODE=11
+WS=12
+'eps'=1
+'='=2
+'->'=8
+':'=9
+'|'=10

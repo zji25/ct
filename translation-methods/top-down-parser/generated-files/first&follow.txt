@@ -1,0 +1,17 @@
+    FIRST
+A   ( - f n 
+A'  , ε 
+E   ( - f n 
+E'  + - ε 
+F   ( - f n 
+T   ( - f n 
+T'  * / ε 
+
+    FOLLOW
+A   ) 
+A'  $ 
+E   $ ) , 
+E'  $ 
+F   $ ) * + , - / 
+T   $ ) + , - 
+T'  $ 

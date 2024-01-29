@@ -1,0 +1,24 @@
+public static int foo(int xs, bool b) {
+char a = '4';
+bool bHc7 = true;
+String stt = "mgskglrg\n cognjeol\" gbher";
+ return 1;
+ }
+private final void s() {
+ while (true) { a = 3; }
+ return;
+}
+bool bar () {
+ bool res = false;
+ {
+ int a = 4;
+ res = true;
+ }
+ if (res) {
+    String s = "s";
+ }
+ else {
+    String q = "q";
+ }
+ return res;
+}
